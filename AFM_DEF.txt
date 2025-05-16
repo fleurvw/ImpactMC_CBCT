@@ -1,0 +1,69 @@
+Table D.4  -  Photon Dose Enhancement Factors in the Skeletal Tissues of the ICRP Reference Phantoms.										
+
+		Organ ID:  14			Organ ID:  15			Organ ID:  17			Organ ID:  18			Organ ID:  20			Organ ID:  21			Organ ID:  23	
+		Humeri, upper half		Humeri, upper half		Humeri, lower half		Humeri, lower half		Ulnae and Radii			Ulnae and Radii			Wrist and Hands	
+Photon		Source: spongiosa		Source: medullary cavity	Source: spongiosa		Source: medullary cavity	Source: spongiosa		Source: medullary cavity	Source: spongiosa	
+Energy		Target Tissue			Target Tissue			Target Tissue			Target Tissue			Target Tissue			Target Tissue			Target Tissue	
+(MeV)		AM		TM50		AM		TM50		AM		TM50		AM		TM50		AM		TM50		AM		TM50		AM		TM50
+0.010		1.00		1.10		NA		1.0		NA		1.07		NA		1.0		NA		1.09		NA		1.0		NA		1.17
+0.015		1.00		1.21		NA		1.0		NA		1.19		NA		1.0		NA		1.20		NA		1.0		NA		1.31
+0.020		1.00		1.36		NA		1.0		NA		1.37		NA		1.0		NA		1.37		NA		1.0		NA		1.51
+0.030		1.00		1.70		NA		1.0		NA		1.74		NA		1.0		NA		1.75		NA		1.0		NA		1.96
+0.040		1.00		1.97		NA		1.0		NA		2.03		NA		1.0		NA		2.03		NA		1.0		NA		2.29
+0.050		1.00		2.02		NA		1.0		NA		2.07		NA		1.0		NA		2.07		NA		1.0		NA		2.33
+0.060		1.01		1.92		NA		1.0		NA		1.93		NA		1.0		NA		1.93		NA		1.0		NA		2.17
+0.080		1.01		1.58		NA		1.0		NA		1.55		NA		1.0		NA		1.55		NA		1.0		NA		1.73
+0.10		1.01		1.34		NA		1.0		NA		1.29		NA		1.0		NA		1.30		NA		1.0		NA		1.43
+0.15		1.01		1.08		NA		1.0		NA		1.06		NA		1.0		NA		1.05		NA		1.0		NA		1.09
+0.20		1.00		1.00		NA		1.0		NA		1.00		NA		1.0		NA		1.00		NA		1.0		NA		1.00
+
+		Organ ID:  25			Organ ID:  27			Organ ID:  29			Organ ID:  30			Organ ID:  32			Organ ID:  33			Organ ID:  35	
+		Clavicles			Cranium				Femora, upper half		Femora, upper half		Femora, lower half		Femora, lower half		Tibiae, Fibulae, Patellae	
+Photon		Source: spongiosa		Source: spongiosa		Source: spongiosa		Source: medullary cavity	Source: spongiosa		Source: medullary cavity	Source: spongiosa	
+Energy		Target Tissue			Target Tissue			Target Tissue			Target Tissue			Target Tissue			Target Tissue			Target Tissue	
+(MeV)		AM		TM50		AM		TM50		AM		TM50		AM	TM50			AM		TM50		AM		TM50		AM		TM50
+0.010		1.00		1.16		1.01		1.14		1.00		1.03		NA	1.0			NA		1.20		NA		1.0		NA		1.08
+0.015		1.00		1.26		1.03		1.21		1.01		1.14		NA	1.0			NA		1.34		NA		1.0		NA		1.16
+0.020		1.00		1.39		1.07		1.32		1.01		1.28		NA	1.0			NA		1.52		NA		1.0		NA		1.31
+0.030		1.00		1.72		1.13		1.53		1.03		1.63		NA	1.0			NA		1.93		NA		1.0		NA		1.66
+0.040		1.01		1.96		1.21		1.76		1.04		1.88		NA	1.0			NA		2.23		NA		1.0		NA		1.92
+0.050		1.01		2.02		1.25		1.84		1.05		1.94		NA	1.0			NA		2.27		NA		1.0		NA		1.96
+0.060		1.01		1.92		1.24		1.79		1.05		1.83		NA	1.0			NA		2.13		NA		1.0		NA		1.83
+0.080		1.02		1.61		1.17		1.55		1.05		1.50		NA	1.0			NA		1.72		NA		1.0		NA		1.48
+0.10		1.01		1.39		1.11		1.38		1.03		1.26		NA	1.0			NA		1.45		NA		1.0		NA		1.24
+0.15		1.01		1.10		1.02		1.09		1.02		1.04		NA	1.0			NA		1.11		NA		1.0		NA		1.05
+0.20		1.00		1.00		1.01		1.00		1.01		1.00		NA	1.0			NA		1.00		NA		1.0		NA		1.00
+
+		Organ ID:  36			Organ ID:  38			Organ ID:  40			Organ ID:  42			Organ ID:  44			Organ ID:  46			Organ ID:  48	
+		Tibiae and Fibulae		Ankles and Feet			Mandible			Pelvis				Ribs				Scapulae			Spine, Cervical	
+Photon		Source: medullary cavity	Source: spongiosa		Source: spongiosa		Source: spongiosa		Source: spongiosa		Source: spongiosa		Source: spongiosa	
+Energy		Target Tissue			Target Tissue			Target Tissue			Target Tissue			Target Tissue			Target Tissue			Target Tissue	
+(MeV)		AM		TM50		AM		TM50		AM		TM50		AM		TM50		AM		TM50		AM		TM50		AM		TM50
+0.010		NA		1.0		NA		1.16		1.00		1.09		1.00		1.00		1.01		1.09		1.00		1.13		1.01		1.06
+0.015		NA		1.0		NA		1.29		1.00		1.20		1.01		1.07		1.01		1.17		1.01		1.24		1.02		1.15
+0.020		NA		1.0		NA		1.46		1.00		1.33		1.01		1.18		1.02		1.29		1.01		1.38		1.04		1.27
+0.030		NA		1.0		NA		1.85		1.01		1.65		1.03		1.46		1.05		1.57		1.03		1.74		1.08		1.56
+0.040		NA		1.0		NA		2.16		1.01		1.90		1.04		1.69		1.07		1.81		1.04		2.02		1.11		1.80
+0.050		NA		1.0		NA		2.20		1.02		1.97		1.05		1.76		1.08		1.89		1.05		2.09		1.13		1.88
+0.060		NA		1.0		NA		2.05		1.02		1.87		1.05		1.68		1.08		1.82		1.05		1.98		1.12		1.81
+0.080		NA		1.0		NA		1.65		1.02		1.55		1.04		1.39		1.06		1.55		1.04		1.63		1.09		1.52
+0.10		NA		1.0		NA		1.38		1.01		1.31		1.03		1.18		1.05		1.32		1.03		1.37		1.06		1.29
+0.15		NA		1.0		NA		1.09		1.01		1.10		1.01		1.03		1.04		1.09		1.01		1.11		1.03		1.07
+0.20		NA		1.0		NA		1.00		1.00		1.00		1.00		1.00		1.00		1.00		1.00		1.00		1.00		1.00
+
+		Organ ID:  50			Organ ID:  52			Organ ID:  54			Organ ID:  56	
+		Spine, Thoracic			Spine, Lumbar			Sacrum				Sternum	
+Photon		Source: spongiosa		Source: spongiosa		Source: spongiosa		Source: spongiosa	
+Energy		Target Tissue			Target Tissue			Target Tissue			Target Tissue	
+(MeV)		AM		TM50		AM		TM50		AM		TM50		AM		TM50
+0.010		1.00		1.07		1.00		1.00		1.00		1.00		1.00		1.02
+0.015		1.01		1.16		1.01		1.09		1.01		1.04		1.01		1.10
+0.020		1.02		1.28		1.02		1.19		1.02		1.14		1.02		1.21
+0.030		1.03		1.56		1.04		1.46		1.04		1.40		1.03		1.47
+0.040		1.05		1.79		1.06		1.68		1.06		1.60		1.05		1.69
+0.050		1.06		1.87		1.06		1.75		1.07		1.68		1.06		1.76
+0.060		1.06		1.80		1.06		1.69		1.07		1.62		1.06		1.70
+0.080		1.04		1.52		1.05		1.42		1.05		1.36		1.04		1.43
+0.10		1.03		1.30		1.03		1.21		1.04		1.17		1.03		1.22
+0.15		1.01		1.08		1.01		1.02		1.02		1.03		1.01		1.03
+0.20		1.00		1.00		1.00		1.00		1.00		1.00		1.00		1.00

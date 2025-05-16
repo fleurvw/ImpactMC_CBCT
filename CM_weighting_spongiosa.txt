@@ -1,0 +1,63 @@
+Media_ID, Media_name, Media_weighting_ID, Spongiosa_ID																	
+1,	Teeth, 0, 0																		
+2,	Mineral bone, 11, 0 																
+3,	Humeri upper half spongiosa, 29, 12											
+4,	Humeri lower half spongiosa, 29, 13												
+5,	Ulnae and radii spongiosa, 29, 15												
+6,	Wrists and hand bones, spongiosa										
+7,	Clavicles spongiosa, 29, 4													
+8,	Cranium spongiosa, 29, 1															
+9,	Femora upper half spongiosa, 29, 17												
+10,	Femora lower half spongiosa, 29, 18												
+11,	Tibiae fibulae and patellae spongiosa, 29, 20									
+12,	Ankles and foot bones, spongiosa, 29, 22											
+13,	Mandible spongiosa, 29, 2															
+14,	Pelvis spongiosa, 29, 11															
+15,	Ribs spongiosa, 29, 6																
+16,	Scapulae spongiosa, 29, 3															
+17,	Cervical spine spongiosa, 29, 7													
+18,	Thoracic spine spongiosa, 29, 8													
+19,	Lumbar spine spongiosa, 29, 9														
+20,	Scarum spongiosa, 29, 10															
+21,	Sternum spongiosa, 29, 5															
+22,	Humeri and femora upper half medullary cavity, 29, 12								
+23,	Humeri and femora lower half medullary cavity, 29, 18								
+24,	Ulnae and radii medullary cavity, 29, 15											
+25,	Tibiae fibulae and patellae medullary cavity, 29, 20								
+26,	Cartilage, 0, 0																	
+27,	Skin, 12, 0																		
+28,	Blood vessels, 0, 0																
+29,	Oral mucosa, 22, 0																	
+30,	Liver, 7, 0																		
+31,	Pancreas, 23, 0																	
+32,	Brain, 2, 0																		
+33,	Heart wall, 18, 0																	
+34,	Eye lens and bulb, 0, 0															
+35,	Kidney tissue, 19, 0																
+36,	Stomach wall, 13, 0																
+37,	Small intestine wall, 25, 0														
+38,	Colon wall and rectum, 4, 0 														
+39,	Spleen, 26, 0																		
+40,	Thyroid, 14, 0																		
+41,	Urindary bladder wall, 1, 0														
+42,	Testes, 6, 0																		
+43,	Adrenal glands, 15, 0																
+44,	Oesophagus wall, 5, 0 															
+45,	Generic soft tissue (several organs), 17, 0										
+46,	Prostate, 24, 0																
+47,	Lymphatic nodes, 20, 0																
+48,	Breast glandular tissue, 3, 0														
+49,	Adipose tissue, 16, 0 																
+50,	Lungs tissue, 8, 0																
+51,	Stomach contents, 0, 0															
+52,	Small intestine contents, 0, 0													
+53,	Right colon contents, 0, 0														
+54,	Left colon contents, 0, 0															
+55,	Sigmoid colon contents, 0, 0														
+56,	Urine, 0, 0																		
+57,	Air inside the body, 0, 0
+58,     Air, 0, 0
+59,     C, 0, 0
+60,     H2O, 0, 0
+61,     H2O, 0, 0
+														
